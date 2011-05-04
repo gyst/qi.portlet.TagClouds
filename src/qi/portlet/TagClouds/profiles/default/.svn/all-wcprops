@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/collective/!svn/ver/146251/qi.portlet.TagClouds/trunk/src/qi/portlet/TagClouds/profiles/default
+END
+metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/collective/!svn/ver/146251/qi.portlet.TagClouds/trunk/src/qi/portlet/TagClouds/profiles/default/metadata.xml
+END
+cssregistry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/collective/!svn/ver/146251/qi.portlet.TagClouds/trunk/src/qi/portlet/TagClouds/profiles/default/cssregistry.xml
+END
+portlets.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/collective/!svn/ver/146251/qi.portlet.TagClouds/trunk/src/qi/portlet/TagClouds/profiles/default/portlets.xml
+END

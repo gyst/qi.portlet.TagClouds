@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/collective/!svn/ver/230243/qi.portlet.TagClouds/trunk/src/qi/portlet/TagClouds
+END
+tagcloudportlet.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/collective/!svn/ver/230243/qi.portlet.TagClouds/trunk/src/qi/portlet/TagClouds/tagcloudportlet.py
+END
+testing.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/collective/!svn/ver/146251/qi.portlet.TagClouds/trunk/src/qi/portlet/TagClouds/testing.py
+END
+configure.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/collective/!svn/ver/228068/qi.portlet.TagClouds/trunk/src/qi/portlet/TagClouds/configure.zcml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/collective/!svn/ver/146251/qi.portlet.TagClouds/trunk/src/qi/portlet/TagClouds/__init__.py
+END
+vocabularies.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/collective/!svn/ver/228068/qi.portlet.TagClouds/trunk/src/qi/portlet/TagClouds/vocabularies.py
+END
+update_i18n.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/collective/!svn/ver/230096/qi.portlet.TagClouds/trunk/src/qi/portlet/TagClouds/update_i18n.sh
+END
+tagcloudportlet.pt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/collective/!svn/ver/146251/qi.portlet.TagClouds/trunk/src/qi/portlet/TagClouds/tagcloudportlet.pt
+END
