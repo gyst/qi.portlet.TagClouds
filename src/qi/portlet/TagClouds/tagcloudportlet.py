@@ -224,9 +224,12 @@ class Renderer(base.Renderer):
         tagOccs = {}
         query = {}
         query['portal_type'] = types
-        query['path'] = getNavigationRoot(
-            self.context,
-            relativeRoot=self.data.root)
+        # search across multiple LinguaPlone INavigationRoot
+        # unless a root node is configured
+        if self.data.root:
+            query['path'] = getNavigationRoot(
+                self.context,
+                relativeRoot=self.data.root)
         if self.wfStates:
             query['review_state'] = self.wfStates
         for tag in tags:
