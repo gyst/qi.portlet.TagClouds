@@ -31,7 +31,8 @@ setup(name='qi.portlet.TagClouds',
       zip_safe=False,
       install_requires=[
           'setuptools',
-          'collective.testcaselayer'
+          'collective.testcaselayer',
+          'zope.app.schema',
           # -*- Extra requirements: -*-
       ],
       entry_points="""
