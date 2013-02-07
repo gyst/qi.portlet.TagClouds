@@ -2,3 +2,4 @@
 *py?
 *egg-info/
 *.mo
+dist/
